@@ -7,6 +7,11 @@ emails with '+', everything after first plus sign will be ignored
 how many unique email addresses do we have?
 
 11:35am
+12:05pm
+30 min
+
+runtime 208ms
+...not the best
 
 - go through each email
 - use a set to check for unique
